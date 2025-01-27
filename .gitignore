@@ -1,0 +1,9 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore IDE files (for PyCharm, example)
+.idea/
+
+# Ignore virtual environment folder
+venv/
